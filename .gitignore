@@ -1,3 +1,14 @@
+# Ignore files containing the word "credentials"
+*credentials*
+
+# Ignore all CSV files
+*.csv
+
+# Ignore all ZIP files
+*.zip
+
+*.pg_service.conf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
